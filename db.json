@@ -1,0 +1,51 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another Example!",
+      "id": 3
+    },
+    [
+      {
+        "title": "Pokemon Red/Blue",
+        "release": 1996
+      },
+      {
+        "title": "Pokemon Yellow",
+        "release": 1998
+      }
+    ],
+    {
+      "company": "Nintendo",
+      "console": "Nintendo Switch",
+      "id": 5
+    },
+    [
+      1,
+      "two",
+      {
+        "key": "three"
+      },
+      "four"
+    ],
+    [
+      "a",
+      "b",
+      "c"
+    ],
+    {
+      "what": "another test object",
+      "id": 8
+    }
+  ]
+}
